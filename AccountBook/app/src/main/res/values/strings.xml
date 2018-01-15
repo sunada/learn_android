@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AccountBook</string>
+    <string name="account_tailNo_hint">请输入银行卡号后4位</string>
+    <string name="account_title_label">帐户信息</string>
+    <string name="account_bank">发卡行</string>
+    <string name="account_bank_zhaoshang">招商银行</string>
+    <string name="account_owner">持卡人</string>
+    <string name="account_owner_wife">老婆</string>
+</resources>
